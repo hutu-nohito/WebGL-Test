@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-TestPWA-1.0";
+const cacheName = "RedAsterGardens-RouletteApp-1.0";
 const contentToCache = [
     "Build/WebGL-Test.loader.js",
     "Build/WebGL-Test.framework.js.unityweb",

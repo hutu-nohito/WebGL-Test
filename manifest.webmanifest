@@ -1,6 +1,6 @@
 {
-    "name": "TestPWA",
-    "short_name": "TestPWA",
+    "name": "RouletteApp",
+    "short_name": "RouletteApp",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
